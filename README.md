@@ -1,6 +1,5 @@
 # Hi, I’m Dimitri Starovsky
 
-<!--
 **QA Specialist** with experience in both manual and automation testing. I have contributed to a variety of web, mobile, and backend projects, participating in distributed teams and supporting QA processes across multiple applications. I enjoy learning new tools and technologies and quickly adapting to new tasks and workflows.
 
 ---
@@ -30,4 +29,3 @@ My projects showcase practical work across different skills and technologies. Ch
 
 ## Learning & Growth
 Continuously improving my QA skills and exploring new tools, frameworks, and best practices.
--->
